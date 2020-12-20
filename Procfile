@@ -1,1 +1,1 @@
-web: node server/database/index.js
+web: node server/index.js
